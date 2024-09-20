@@ -46,3 +46,19 @@
   width: max-content;
   z-index: 100;
 }
+
+.contact{
+  background-color: #28282B;
+  color: blanchedalmond;
+  padding-left: 30vw;
+}
+
+.footer{
+  padding: left 12px;
+}
+
+.portfolio-head{
+  color: blanchedalmond;
+  font-family:'onyx' ;
+  font-size: 2000px;
+}

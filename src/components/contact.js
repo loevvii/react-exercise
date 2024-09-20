@@ -2,10 +2,10 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <footer className="pt-4 pb-4">
-    <div className="container" id="Contact">
+    <footer className="pt-4 pb-4 contact justify-content-center d-flex" >
+    <div className="container d-flex flex-column justify-content-right" id="Contact">
 
-        <div className="row">
+        <div className="row contentrow">
         <div className="col-md-6">
             <h5 className="secondary">Like what you see?</h5>
             <p className="secondary">Feel free to reach out through the form below.</p>
