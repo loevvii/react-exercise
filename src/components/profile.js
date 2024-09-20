@@ -12,7 +12,7 @@ const Profile = () => {
                     <div class="col profiletext"><div className='grid-item'>
                     <h1></h1>
                     </div></div>
-                    <div class="col profiletext">Schwarz<p></p>Hello, Welcome</div>
+                    <div class="col profiletext">Hello, This Is<p></p>Schwarz</div>
                     </div>
                     <div className='grid-item'>
                         <div class="row">some text</div>
