@@ -11,13 +11,13 @@
     margin-top: 5%;
     margin-left: -40%;
     border-radius: 100%;
-    height: 90vh; /* Set width if not using inline */
+    height: 90vh;
     animation: rotation 7s infinite linear;
-    box-shadow: inset;
+    box-shadow: black;
 }
 
 .disc:hover {
-    animation: end; /* This will need to be defined if you want a different effect */
+    animation: end;
 }
 
 @keyframes rotation {
@@ -38,5 +38,13 @@
 .profiletext{
     color: blanchedalmond;
     font-family:'onyx' ;
-    font-size: 200px;
+    font-size: 150px;
+}
+
+.h5{
+    font-family: 'onyx';
+}
+
+.card-body{
+    background-color: blanchedalmond;
 }

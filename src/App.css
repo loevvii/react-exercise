@@ -46,3 +46,39 @@
   width: max-content;
   z-index: 100;
 }
+
+.contact{
+  background-color: #28282B;
+  color: blanchedalmond;
+  padding-left: 30vw;
+}
+
+.footer{
+  padding: left 12px;
+}
+
+.portfolio-head{
+  color: blanchedalmond;
+  font-family:'onyx' ;
+  font-size: 2000px;
+}
+
+h5{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+}
+
+.formrow{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.modal-header{
+  background-color: blanchedalmond;
+}
+
+.modal-body{
+  background-color: blanchedalmond;
+}
