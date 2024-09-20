@@ -12,7 +12,7 @@ const Portfolio = () => {
           <div className="col-md-4 mb-3">
             <PortfolioCards 
               img={"/saber.jpg"} 
-              title="Goghie" 
+              title="Saber" 
               description="An attempt at a more complete piece"
               modal="#Modal-1">
             </PortfolioCards>          
@@ -21,7 +21,7 @@ const Portfolio = () => {
           <div className="col-md-4 mb-3">
             <PortfolioCards 
               img={"/robin.jpg"} 
-              title="Glupo" 
+              title="Robin" 
               description="One of my personal favourites."
               modal="#Modal-2">
             </PortfolioCards>
@@ -30,7 +30,7 @@ const Portfolio = () => {
           <div className="col-md-4 mb-3">
             <PortfolioCards 
               img={"/navia.jpg"} 
-              title="Saber" 
+              title="Navia" 
               description="A practice project from reference."
               modal="#Modal-3">
             </PortfolioCards>
@@ -46,7 +46,7 @@ const Portfolio = () => {
       />  
       <Modals 
         modalID="Modal-2" 
-        title="Glupo"
+        title="Robin"
         img={"/robin.jpg"} 
         description="A fun sketch."
       />  
