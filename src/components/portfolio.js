@@ -13,7 +13,7 @@ const Portfolio = () => {
             <PortfolioCards 
               img={"/saber.jpg"} 
               title="Saber" 
-              description="An attempt at a more complete piece"
+              description="An experimental piece."
               modal="#Modal-1">
             </PortfolioCards>          
           </div>
@@ -22,7 +22,7 @@ const Portfolio = () => {
             <PortfolioCards 
               img={"/robin.jpg"} 
               title="Robin" 
-              description="One of my personal favourites."
+              description="A fun sketch."
               modal="#Modal-2">
             </PortfolioCards>
           </div>
@@ -31,7 +31,7 @@ const Portfolio = () => {
             <PortfolioCards 
               img={"/navia.jpg"} 
               title="Navia" 
-              description="A practice project from reference."
+              description="A piece that has burnt me out more than once."
               modal="#Modal-3">
             </PortfolioCards>
           </div>
