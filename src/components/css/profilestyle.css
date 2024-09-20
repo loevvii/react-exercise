@@ -1,18 +1,17 @@
 .h1 {
-    color: black;
+    color:wheat;
 }
 
 .jumbotron {
-    padding-top: 50%;
+    overflow-y: hidden;
     background-color:#28282B;
 }
 
 .disc {
-    margin-top: 30%;
+    margin-top: 5%;
     margin-left: -40%;
     border-radius: 100%;
-    width: 700px; /* Set width if not using inline */
-    height: 700px; /* Set height if not using inline */
+    height: 90vh; /* Set width if not using inline */
     animation: rotation 7s infinite linear;
     box-shadow: inset;
 }
@@ -28,4 +27,16 @@
     to {
         transform: rotate(359deg);
     }
+}
+
+@font-face {
+    font-family: 'onyx'; /* Name your font family */
+    src: url('OPTIOnyx.otf'); /* Locate the .ttf file within your directory*/
+  }
+  
+
+.profiletext{
+    color: blanchedalmond;
+    font-family:'onyx' ;
+    font-size: 200px;
 }
