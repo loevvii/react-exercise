@@ -42,19 +42,19 @@ const Portfolio = () => {
         modalID="Modal-1" 
         title="Saber"
         img={"/saber.jpg"} 
-        description="Mainly wanted to try making a more complete piece than usual compared to what I usually do. I also used a completely different brush than usual which made this look much cleaner."
+        description="An experimental piece."
       />  
       <Modals 
         modalID="Modal-2" 
         title="Glupo"
         img={"/robin.jpg"} 
-        description="One of my favorite pieces. Made using my usual messy brush but turned out looking cleaner than I thought. I initially wanted to do this landscape but decided to make it portrait instead since it made a nice background image."
+        description="A fun sketch."
       />  
       <Modals 
         modalID="Modal-3" 
         title="Navia"
         img={"/navia.jpg"} 
-        description="A practice work based on reference from an image I liked. Tried going for a messier and rougher look with a focus on how the color was placed. Turned out surprisingly well."
+        description="A piece that has burnt me out more than once."
       />        
     </section>
     

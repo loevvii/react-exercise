@@ -38,5 +38,13 @@
 .profiletext{
     color: blanchedalmond;
     font-family:'onyx' ;
-    font-size: 200px;
+    font-size: 150px;
+}
+
+.h5{
+    font-family: 'onyx';
+}
+
+.card-body{
+    background-color: blanchedalmond;
 }
