@@ -4,7 +4,6 @@
 
 .jumbotron {
     overflow-y: hidden;
-    padding-top: 50%;
     background-color:#28282B;
 }
 
@@ -12,8 +11,7 @@
     margin-top: 5%;
     margin-left: -40%;
     border-radius: 100%;
-    width: 1000px; /* Set width if not using inline */
-    height: 1000px; /* Set height if not using inline */
+    height: 90vh; /* Set width if not using inline */
     animation: rotation 7s infinite linear;
     box-shadow: inset;
 }
@@ -37,8 +35,7 @@
   }
   
 
-.col{
-    text-decoration-style: dashed;
+.profiletext{
     color: blanchedalmond;
     font-family:'onyx' ;
     font-size: 200px;
